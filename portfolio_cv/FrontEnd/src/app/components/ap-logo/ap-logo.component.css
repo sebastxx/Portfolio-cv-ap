@@ -13,9 +13,9 @@
     width: 150px;
 }
 img {
-    width: 50px;
+    width: 40px;
 }
-btn{
+.btn{
     border-width: medium;
 }
 
@@ -27,7 +27,7 @@ btn{
     
         .redes {
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
             align-items: center;
         }
     
